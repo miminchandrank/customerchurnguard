@@ -3,7 +3,7 @@
 Welcome to **ChurnGuard AI**, a deep learning-based web application built to predict customer churn using behavioral and demographic data. The model is trained using TensorFlow and deployed with an interactive UI via Streamlit.
 
 🔗 **Live App**: [Launch ChurnGuard AI](https://lnkd.in/gkh8TbGX)  
-📽️ **Video Walkthrough**: *(Add YouTube/LinkedIn link if available)*
+📽️ **Video Walkthrough**: *https://www.linkedin.com/posts/miminchandrank_artificialintelligence-deeplearning-customerchurnprediction-activity-7317052413700386816-9ErY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFD4aN8BBSizqogKnOr2eBg_WSmXdqUej4w*
 
 ---
 
